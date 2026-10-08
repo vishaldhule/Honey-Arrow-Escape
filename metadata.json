@@ -1,0 +1,7 @@
+{
+  "name": "Honey Arrow Escape",
+  "description": "A sweet, relaxing yet challenging grid puzzle game where you guide honey arrows to escape intricate mazes with cute cartoon companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

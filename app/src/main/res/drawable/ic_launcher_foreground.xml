@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Group centered in safe area -->
+    <!-- Upward exiting arrow -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,72 L38,44 Q38,36 46,36 L54,36 Q62,36 62,28 L62,24" />
+    <!-- Up arrowhead -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M62,18 L55,26 L69,26 Z" />
+
+    <!-- Right exiting arrow -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,54 L76,54" />
+    <!-- Right arrowhead -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84,54 L75,47 L75,61 Z" />
+
+    <!-- Downward turn arrow -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M70,40 L70,72 Q70,80 62,80 L52,80" />
+    <!-- Left arrowhead -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,80 L53,73 L53,87 Z" />
+
+    <!-- Subtle accent dots -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M38,72m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+</vector>
